@@ -1,0 +1,12 @@
+Package: levelint
+Title: Stationarity Tests for Time Series
+Version: 0.1.0
+Authors@R: person("Bubuutor Corban Enam", email = "bubutorcorban@gmail.com", role = c("aut", "cre"))
+Description: A package for performing stationarity tests on time series data using ADF, PP, and KPSS tests.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
